@@ -18,7 +18,7 @@ stack: python · rust · typescript · swift when the platform demands it.
 **now**
 - dataweaver — shipping, customers onboard, windows next
 - free-threaded python (pep 703) — merged into [deptry](https://github.com/osprey-oss/deptry/pull/1517), pending in [jellyfish](https://github.com/jamesturk/jellyfish/pull/243) & [pendulum](https://github.com/python-pendulum/pendulum/pull/952)
-- open-sourcing slices of dataweaver where it makes sense
+- open-sourcing slices of dataweaver where it makes sense — e.g. [@skyastrall/mentions](https://github.com/SkyAstrall/mentions), built for dataweaver, now public
 
 **elsewhere**
 - [gaganraj.pages.dev](https://gaganraj.pages.dev/)
