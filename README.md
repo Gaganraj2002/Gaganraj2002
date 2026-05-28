@@ -1,16 +1,27 @@
-## Hi there 👋
+### hi, i'm gagan.
 
-<!--
-**Gaganraj2002/Gaganraj2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i ship products end-to-end.
 
-Here are some ideas to get you started:
+→ **[dataweaverapp.com](https://dataweaverapp.com/)**
+local-first AI data analyst for mac.
+tauri (rust + react) desktop · fastapi backend · angular web.
+built by me at techcora.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+→ **[skyastrall.com](https://skyastrall.com/)**
+premium custom dev studio i run on the side.
+web · desktop · AI · embedded.
+
+stack: python · rust · typescript · swift when the platform demands it.
+
+---
+
+**now**
+- dataweaver — shipping, customers onboard, windows next
+- free-threaded python (pep 703) — merged into [deptry](https://github.com/osprey-oss/deptry/pull/1517), pending in [jellyfish](https://github.com/jamesturk/jellyfish/pull/243) & [pendulum](https://github.com/python-pendulum/pendulum/pull/952)
+- open-sourcing slices of dataweaver where it makes sense
+
+**elsewhere**
+- [gaganraj.pages.dev](https://gaganraj.pages.dev/)
+- [linkedin.com/in/gaganraj2002](https://www.linkedin.com/in/gaganraj2002/)
+- instagram [@gaganraj2002](https://instagram.com/gaganraj2002)
+- gaganraj2002@gmail.com
